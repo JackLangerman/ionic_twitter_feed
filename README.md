@@ -22,13 +22,13 @@ ionic plugin add cordova-plugin-whitelist
 ```
 
 **Update(0.0.3)**
-If you wont hyperlinks(hashtags, users, lists, links) to open in InnapBrowser when clicked you have to add this plugin :
+If you want hyperlinks(hashtags, users, lists, links) to open in InAppBrowser when clicked you have to add this plugin :
 ```sh
 cordova plugin add cordova-plugin-inappbrowser
 ```
 
 ## NOTE
-You wont be able to see the feed with ionic serve command, because of cross-origin resource sharing not being enabled in browser. Build on phone to see results.
+You won't be able to see the feed with ionic serve command, because of cross-origin resource sharing not being enabled in browser. Build on phone to see results.
 
 ## UPDATES
 ### Version 0.0.3 - August 2015
